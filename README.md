@@ -1,5 +1,11 @@
 # Colorful Hello World
 ---
+## Normal Hallo World
+
+```python
+print("Hello, World!")
+```
+---
 This repository contains a Python script that prints "Hello, World!" in various colors using the `colorama` library. It's a fun way to see how text can be colored in the terminal.
 
 ## Requirements
